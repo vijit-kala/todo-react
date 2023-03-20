@@ -2,6 +2,12 @@
   text-align: center;
 }
 
+.App .header {
+  background: #082449;
+  color: white;
+  font-size: 22px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
